@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FoodSQLPractica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FoodSQLPractica_jar</output-path>
+    <root id="archive" name="FoodSQLPractica.jar">
+      <element id="module-output" name="FoodSQLPractica" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../proiectPractica/lib/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

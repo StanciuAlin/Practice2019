@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FoodSQLPractica:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28f439ef-2e2a-4b24-8d80-ed8c77f83597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FoodSQLPractica_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FoodSQLPractica_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BDtoPDFParser.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BDtoPDFParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/palette/ButtonGeneratePDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/palette/ButtonGenerateXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSQLPractica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSQLPractica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food.xml" beforeDir="false" afterPath="$PROJECT_DIR$/food.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodDatabase.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/foodDatabase.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoodSQLPractica/META-INF/FoodSQLPractica.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/AppSQLPractica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/AppSQLPractica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/CreatePdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/CreatePdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_itextpdf_itextpdf_5_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/mysql_connector_java_5_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FoodSQLPractica.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/AppSQLPractica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/AppSQLPractica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/CreatePdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/CreatePdf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/CreateXMLFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/CreateXMLFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/InitDBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/InitDBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/ManagerAppSQLPractica.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/ManagerAppSQLPractica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food/Alcohol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/food/Alcohol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food/Butchery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/food/Butchery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food/DairyProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/food/DairyProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food/Diner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/food/Diner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/food/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/food/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lib/mysql-connector-java-5.1.46.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/out/production/FoodSQLPractica/META-INF/FoodSQLPractica.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.</find>
+      <find>setAli</find>
+      <find>Write</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RbI4MTpPN1tkonw9xGx7op44yq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/app/CreatePdf.java" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/app/CreatePdf.java" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/main/java/app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alin Stanciu\Desktop\Practica\SP\FoodSQLPractica\src\main\resources" />
+      <recent name="C:\Users\Alin Stanciu\Desktop\Practica\SP\FoodSQLPractica\out\artifacts" />
+      <recent name="C:\Users\Alin Stanciu\Desktop\Practica\SP\FoodSQLPractica\out\artifacts\FoodSQLPractica_jar\META-INF" />
+      <recent name="C:\Users\Alin Stanciu\Desktop\Practica\SP\FoodSQLPractica\out\artifacts\FoodSQLPractica_jar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppSQLPractica">
+    <configuration name="META-INF in FoodSQLPractica" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="FoodSQLPractica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="META-INF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="META-INF" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSQLPractica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.AppSQLPractica" />
+      <module name="FoodSQLPractica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="META-INF in FoodSQLPractica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FoodSQLPractica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="META-INF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="META-INF" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodSQLPractica.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FoodSQLPractica_jar2/FoodSQLPractica.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FoodSQLPractica.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FoodSQLPractica_jar/FoodSQLPractica.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.META-INF in FoodSQLPractica" />
+      <item itemvalue="Application.AppSQLPractica" />
+      <item itemvalue="JAR Application.FoodSQLPractica.jar (1)" />
+      <item itemvalue="JAR Application.FoodSQLPractica.jar" />
+      <item itemvalue="JUnit.META-INF in FoodSQLPractica" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppSQLPractica" />
+        <item itemvalue="JAR Application.FoodSQLPractica.jar" />
+        <item itemvalue="JAR Application.FoodSQLPractica.jar (1)" />
+        <item itemvalue="JUnit.META-INF in FoodSQLPractica" />
+        <item itemvalue="Android JUnit.META-INF in FoodSQLPractica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f439ef-2e2a-4b24-8d80-ed8c77f83597" name="Default Changelist" comment="" />
+      <created>1562250923054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562250923054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="META-INF_in_FoodSQLPractica - 2019.07.11 at 20h 05m 07s.xml">
+      <configuration name="META-INF in FoodSQLPractica" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="META-INF_in_FoodSQLPractica - 2019.07.11 at 20h 05m 15s.xml">
+      <configuration name="META-INF in FoodSQLPractica" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="META-INF_in_FoodSQLPractica - 2019.07.11 at 20h 05m 38s.xml">
+      <configuration name="META-INF in FoodSQLPractica" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="META-INF_in_FoodSQLPractica - 2019.07.11 at 20h 05m 43s.xml">
+      <configuration name="META-INF in FoodSQLPractica" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((ElementImpl)((DocumentImpl)doc).docElement).name" custom="com.sun.org.apache.xerces.internal.dom.ElementImpl,com.sun.org.apache.xerces.internal.dom.DocumentImpl" />
+        <watch expression="((ElementImpl)((ElementImpl)((ElementImpl)((DocumentImpl)doc).docElement).firstChild).firstChild).attributes" custom="com.sun.org.apache.xerces.internal.dom.ElementImpl,com.sun.org.apache.xerces.internal.dom.DocumentImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>source</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FoodSQLPractica:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FoodSQLPractica</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.itextpdf:itextpdf:5.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
